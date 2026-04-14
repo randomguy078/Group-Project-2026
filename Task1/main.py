@@ -1,7 +1,7 @@
 #main code of the system
 import tkinter as tk
 from login_system import Login
-from gui_main import System
+from gui import System
 
 def start():
     main_window = tk.Tk()
