@@ -1,4 +1,4 @@
-## Library Management System - Group 46 Task 1
+## Library Management System - Group 46 (Task 1)
 
 ## Our group members
 
