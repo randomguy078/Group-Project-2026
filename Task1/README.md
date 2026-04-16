@@ -17,7 +17,7 @@
 -	Data storage system
 
 ## Introduction Video
-<iframe src="https://drive.google.com/file/d/168R6nwMbi7oi5VJ-eFdDBBDZhBA5YTWd/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/168R6nwMbi7oi5VJ-eFdDBBDZhBA5YTWd/preview
 
 
 
