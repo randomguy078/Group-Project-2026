@@ -60,5 +60,5 @@ Install and Run the system:
 ## How to use the system
 1. Enter the username and password.
 2. You will see the borrow books page after you have logged in
-3. Press the *Books* tab and enter the ISBN, Name, Author and Category of your book(s).
-4. Press the *Students" tab and enter the Student ID and the name of the student. (Student ID format is s + 7 digits) 
+3. Press the **Books** tab and enter the ISBN, Name, Author and Category of your book(s).
+4. Press the **Students** tab and enter the Student ID and the name of the student. (Student ID format is s + 7 digits) 
