@@ -12,7 +12,7 @@ We choose **Min Heap** for the new data structure and **Heap Sort** for the new 
 To acheive the application of **Min Heap** and **Heap Sort**, we develop a Store system for supermarket to sort the expire date for the products.
 
 ## Introduction Video
-
+https://drive.google.com/file/d/19aYjyb587iZUDdZTUjo0yiRbkcjt62A7/view
 
 ## System structure
 
